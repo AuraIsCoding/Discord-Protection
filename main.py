@@ -8,7 +8,7 @@ from pystyle import *
 from colorama import Fore
 from time import sleep
 
-sys.stdout.write("\x1b]2;Aura V3 | Protect Your Token\x07")
+sys.stdout.write("\x1b]2;Aura V1 | Protect Your Token\x07")
 os.system(f'mode con: cols=103 lines=25')
 
 class bot:
